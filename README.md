@@ -2,8 +2,8 @@
 
 ## Switches keyboard layout with the Caps Lock key. Just like [Switchy](https://github.com/erryox/Switchy)!
 
-This code is basically **refactored** and **modernized** version of **Switchy**. Logic was mostly borrowed from there.
-This version, **stabler than Switchy**
+This project is a complete refactoring and modernization of Switchy, rewritten for stability and maintainability.
+#### This version **stabler than Switchy**
 
 ## Installation
 
