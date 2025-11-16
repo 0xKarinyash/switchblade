@@ -12,6 +12,7 @@ DWORD main(void) {
         } else {
             MessageBoxExW(NULL,L"Something went wrong :C", NULL, MB_OK | MB_ICONERROR, LANG_ENGLISH);
         }
+        
         return err;
     }
 
